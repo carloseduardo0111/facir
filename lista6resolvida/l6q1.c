@@ -1,6 +1,5 @@
 /*1-Faça um programa para ler uma string e imprimir*/
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
