@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1573403295 source:c:\users\eduardo\desktop\edu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1573857675 source:d:\eduardo exemplos c\edu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1574801013 source:d:\eduardo exemplos c\edu final calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1575843878 source:c:\users\carlos.eduardo\desktop\edu final calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+
+1576462818 source:c:\users\eduardo\desktop\edu final calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+
